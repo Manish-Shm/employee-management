@@ -1,2 +1,4 @@
 # employee-management
-Employee Management Syustem using Spring Boot
+Employee Management System using Spring Boot
+<br>
+Author - Manish Sharma 
